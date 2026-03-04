@@ -1,6 +1,6 @@
 # index.html
 # online-paise-kaise-kamaye.htm
-<!DOCTYPE html>
+
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
@@ -226,7 +226,7 @@ text-decoration:underline;
 <div class="related">
 <h2>📚 Related Articles</h2>
 <ul>
-<li><a href="blogging-se-paise-kaise-kamaye.html">ब्लॉगिंग से पैसे कैसे कमाएं</a></li>
+<li><a href="https://devendrakumar5.blogspot.com/2026/03/2026.html">ब्लॉगिंग से पैसे कैसे कमाएं</a></li>
 <li><a href="youtube-se-paise-kaise-kamaye.html">यूट्यूब से कमाई गाइड</a></li>
 <li><a href="affiliate-marketing-kya-hai.html">एफिलिएट मार्केटिंग क्या है</a></li>
 </ul>
