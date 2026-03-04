@@ -2,6 +2,7 @@
 # online-paise-kaise-kamaye.htm
 
 <html lang="hi">
+ <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <head>
  <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <meta charset="UTF-8">
